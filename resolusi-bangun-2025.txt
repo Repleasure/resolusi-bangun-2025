@@ -4,3 +4,4 @@ BANGUN RESOLUSI 2025 :
 - Pertengahan Mulai Masuk : Laravel + React JS + DB MySql atau yang lain
 - Menjadi Pribadi yang Percaya Diri & Mandiri
 - Akhir tahun 2025 bisa dapat Beasiswa atau First InternShip
+- Mulai Untuk Research Produk dan Metode Bisnis
